@@ -2,9 +2,9 @@
 
 纸质出版因为牵扯的环节和周期相对较长，作者自身见解也难免偏颇，故此， 在本书出版之后，如果各位读者有疑问，建议，改进等反馈，可以在这个项目新建issue， 我会适时的选择给予答复， 当然，笔者个人难免时间和精力有限， 更希望大家可以通过issue展开讨论，互相切磋和解答疑问 ^_^
 
-GL & HF
+GL & HF :wink:
 
 ---
 
->>> [Create New Issue Right Now !](https://github.com/fujohnwang/unveil-springboot-feedbacks/issues/new) 
+>>> :point_right: [Create New Issue Right Now !](https://github.com/fujohnwang/unveil-springboot-feedbacks/issues/new) 
 
