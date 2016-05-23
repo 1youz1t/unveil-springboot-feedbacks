@@ -8,3 +8,13 @@ GL & HF :wink:
 
 >>> :point_right: [Create New Issue Right Now !](https://github.com/fujohnwang/unveil-springboot-feedbacks/issues/new) 
 
+
+---
+
+# 第一版重点勘误
+
+## 93页
+
+插图5-2应该如下图所示， 可能是排版的时候稿件有问题导致：
+
+![](images/web-api-req-res.png)
