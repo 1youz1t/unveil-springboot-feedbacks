@@ -13,8 +13,8 @@ GL & HF :wink:
 
 # 第一版重点勘误(笔者自己做的全部勘误[看这里](勘误.md))
 
-## 93页
+# 关于源码 
 
-插图5-2应该如下图所示， 可能是排版的时候稿件有问题导致：
+<https://github.com/fujohnwang/unveil-springboot-feedbacks/issues/5>
 
-![](images/web-api-req-res.png)
+> 其实这本书本身就不是入门级的， 即使是源码，也不会是可以直接运行的， 最多只是为了演示原理。
